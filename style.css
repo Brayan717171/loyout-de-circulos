@@ -10,3 +10,20 @@
   ul, ol, li{
     list-style: none;
   }
+  .roxo {
+    width: 100vw;
+    height: 190px;
+    background-color: rgba(112, 66, 136, 0.423);
+    display: flex;
+    justify-content:flex-end;
+    align-items:last baseline;
+    
+}
+.circulo {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(134, 87, 166, 0.589);
+    border-radius: 50%;
+    margin: 0 5px;
+    
+}
