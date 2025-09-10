@@ -27,3 +27,20 @@
     margin: 0 5px;
     
 }
+.verde {
+    width: 100vw;
+    height: 190px;
+    background-color: rgba(105, 168, 33, 0.527);
+    display: flex;
+    justify-content:flex-end;
+    align-items:center;
+    
+}
+.circulo1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(64, 147, 64, 0.582);
+    border-radius: 50%;
+    margin: 0 5px;
+    
+}
